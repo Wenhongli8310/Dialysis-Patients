@@ -1,4 +1,4 @@
-# Predicting Hospitalization Risk in Dialysis Patients: A Machine Learning Approach
+# Predicting Hospitalization Risk in Dialysis Patients
 
 This project provides a comparative analysis of four machine learning models to predict hospitalization risk among dialysis patients. The models include **Baseline Logistic Regression**, **Random Forest**, **Logistic Regression with Feature Engineering**, and **Logistic Regression with Interaction Terms**. The dataset includes clinical data such as age, duration on dialysis, diabetes, albumin levels, and hospitalization status.
 
