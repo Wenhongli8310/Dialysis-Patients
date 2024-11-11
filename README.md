@@ -32,3 +32,14 @@ python baseline_logistic_regression.py
 The script random_forest_model.py builds and tunes a Random Forest model using GridSearchCV. It evaluates performance metrics (AUC, Brier Score, etc.) and plots ROC and feature importance charts.
 
 python random_forest_model.py
+
+## Logistic Regression with Feature Engineering
+logistic_regression_feature_eng.py applies non-linear transformations and feature engineering to improve the Logistic Regression model. It calculates and visualizes AUC, Brier Score, and calibration curves.
+
+python logistic_regression_interaction_terms.py
+
+## Logistic Regression with Interaction Terms
+The logistic_regression_interaction_terms.py script adds interaction terms to the Logistic Regression model, optimizing it to capture variable interactions. It outputs various performance metrics and ROC/Calibration curves.
+
+python logistic_regression_interaction_terms.py
+
